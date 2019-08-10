@@ -8,7 +8,7 @@ $pkg install python
 $pip install requests
 $git clone https://github.com/Xractz/SpamCall
 $cd SpamCall
-$python spam.pyc
+$python spam.py
 ```
 
 

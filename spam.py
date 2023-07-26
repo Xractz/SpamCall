@@ -5,7 +5,7 @@ import time, re, sys
 from requests import Session
 s = Session()
 
-print("Spam Call by Xractz - IndoSec\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (ex: 62xxxxx29)")
+print("Spam Call by Xractz - IndoSec\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (+243901544258)")
 try:
 	no = int(input("No    : "))
 	jml = int(input("Count : "))
